@@ -1,4 +1,4 @@
-## Hi there ![image](https://user-images.githubusercontent.com/97145602/148165500-448acf85-268c-4c84-8fb6-8b95eefe61cd.png)
+## Hi there 👋
     
  # Welcome To My Repository 
 
@@ -18,5 +18,9 @@ Hi, I'm Priyanshu mundra, A Student and Lerner 🚀 from bhilwara,rajasthan, Ind
 - 🌱 I’m currently learning Mern 🤟 ...
 - 📫 How to reach me mundrapriyanshu15@gmail.com ...
 - 💬 Ask me about anything, I am happy to help
+
+
+
+![image](https://github-readme-stats.vercel.app/api?username=spyder15&&show_icons=true&title_color=ffff88ff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 
