@@ -47,8 +47,5 @@ Hi, I'm Priyanshu mundra, A Student and Lerner 🚀 from bhilwara,rajasthan, Ind
 
 
 
-### 🐍 Watch Snake eating my contribution:
-![Snake](https://github.com/ShishirShekhar/ShishirShekhar/blob/output/github-contribution-grid-snake.svg)
-
 
 
