@@ -29,7 +29,7 @@ Hi, I'm Priyanshu mundra, A Student and Lerner 🚀 from bhilwara,rajasthan, Ind
 
 ### 📊 Some Fun Stats:
 ![image](https://github-readme-stats.vercel.app/api?username=spyder15&&show_icons=true&title_color=ffff88ff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-![Shishir's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spyder15&theme=vision-friendly-dark)
+
 
 😍 Total Views on Profile:<br><br>
 ![Visitor Count](https://profile-counter.glitch.me/priyanshumundra/count.svg)
