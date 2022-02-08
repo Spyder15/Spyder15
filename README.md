@@ -52,6 +52,8 @@ Hi, I'm Priyanshu mundra, A Student and Learner 🚀 from bhilwara,rajasthan, In
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mundra__priyanshu/)
 [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mundrapriyanshu15@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Spyder15)
+[![leetcode](https://img.shields.io/badge/leetcode-lightyellow?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/mundrapriyanshu15)
+
 
 
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
