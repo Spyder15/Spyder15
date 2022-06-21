@@ -47,7 +47,7 @@ ___
 
 
 ## Competitive Programming [here](https://www.google.com)
-- LeetCode : 51+ Problems (Data Structures and Algorithms)
+- LeetCode : 60+ Problems (Data Structures and Algorithms)
 - Stopstalk Profile : All CP Profiles
 - CodeChef : 3 Star ⭐⭐⭐ 
 - Codeforces : Newbie 🤔
