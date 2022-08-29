@@ -11,7 +11,7 @@ Hi, I'm Priyanshu mundra,A Student and Learner 🚀 from bhilwara,rajasthan, Ind
 
 
 
-### Talking about Personal Stuffs:
+### Talking about Personal Stuffs :
 
 - 👋 Hi, I’m priyanshu
 - 👀 I’m currently partcipating in as much Hackathons as I can...
