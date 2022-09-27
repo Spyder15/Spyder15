@@ -16,7 +16,7 @@ Hi, I'm Priyanshu mundra,A Student and Learner 🚀 from bhilwara,rajasthan, Ind
 - 👋 Hi, I’m [Priyanshu ](https://google.com) AKA [Spyder](https://google.com) 🕷
 - 👀 I’m currently partcipating in as much Hackathons as I can...
 - 👀 I’m interested in Data Science, Full Stack Web Development
-- 🌱 I’m currently learning Mern 🤟 ...
+- 🌱 Check out [My Blog](https://dev.to/spyder15) 
 - 💬 Ask me about anything, I am happy to help
 
 
