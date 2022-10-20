@@ -80,7 +80,7 @@ ___
 
 
 
-### 🐍 Watch Snake eating my contribution:
+### 🐍 Watch Snake eating my contribution :
 ![snake svg](https://github.com/spyder15/spyder15/blob/output/github-contribution-grid-snake.svg)
 
 
