@@ -1,6 +1,6 @@
-## Hello, I'm [Priyanshu Mundra!](https://google.com)👋
+## Hello, I'm [Priyanshu Mundra](https://www.google.com/search?q=priyanshu+mundra) :raised_hand_with_fingers_splayed:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+Full+Stack+Web+Developer;and+Competitive+Coder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+Full+Stack+Developer;Competitive+Coder;and+Community+manager)](https://git.io/typing-svg)
     
 
 
