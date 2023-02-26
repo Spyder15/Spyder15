@@ -7,7 +7,7 @@
 
 ## just a Introduction: 
 
-Hi, I'm Priyanshu mundra,A Student and Learner 🚀 from bhilwara,rajasthan, India, currently 💻 doing my undergraduate BTECH from Lovely professional university and I am passionate about technology and want to learn & explore new technologies ,Beside's Computer Science, I love Coding, photography, Travelling and playing basketball.
+Hi, I'm Priyanshu mundra,A Student and Learner 🚀 .. currently 💻 doing my undergraduate BTECH from Lovely professional university and I am passionate about technology and want to learn & explore new technologies ,Beside's Computer Science, I love Coding, photography, Travelling and playing basketball.
 
 
 
